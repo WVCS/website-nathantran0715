@@ -1,3 +1,20 @@
-body {
-
+body{
+  background-color: #92817A;
+}
+h1{
+  color: white;
+  font-size: 500%;
+  letter-spacing: 4px;
+  text-decoration: underline;
+  text-decoration-color: #362417;
+}
+p{
+  color: white;
+  font-size: 300%;
+}
+img{
+  width: 500px;
+  border-style: double;
+  border-color: #362417;
+  border-width: 20px;
 }
