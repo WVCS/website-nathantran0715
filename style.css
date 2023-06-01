@@ -12,6 +12,11 @@ p{
   color: white;
   font-size: 300%;
 }
+h2{
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+}
 img{
   width: 500px;
   border-style: double;
@@ -27,13 +32,16 @@ li{
   float: left;
 }
 li a{
-  padding: 40px;
-  color: #362417;
-  font-family: "Monaco", Monospace;
+  padding: 20px;
+  letter-spacing: 4px;
+  color: white;
+  font-family: "Helvetica";
+  font-weight: bold;
   text-decoration: none;
-  border: dashed;
+  border: outset;
+  background-color: #362417
 }
 li a:hover{
   background-color: white;
-  color: #92817A;
+  color: #362417;
 }
